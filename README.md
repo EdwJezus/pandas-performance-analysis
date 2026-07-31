@@ -8,7 +8,7 @@ frequência, notas e resultado final.
 - Explorar correlações entre variáveis
 - Gerar visualizações informativas
 
-## Tecnologias
+## 💻 Tecnologias
 - Python 3.11
 - Pandas
 - Matplotlib
@@ -30,4 +30,3 @@ jupyter notebook notebooks/analyse_alunos.ipynb
 1. O número de faltas apresenta relação com o resultado final dos alunos.
 2. A comparação entre média e mediana permite observar a distribuição das notas da turma.
 3. Alunos com mais de 8 faltas concentram 100% das reprovações.
-
