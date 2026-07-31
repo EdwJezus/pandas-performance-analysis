@@ -20,10 +20,11 @@ frequência, notas e resultado final.
 | notebooks/ | Notebook com a análise completa |
 
 ## ▶️ Como executar
-´´´bash
+```bash
 pip install -r requirements.txt
 jupyter notebook notebooks/analise alunos.ipynb 
 Principais Insights
 1.Frequência é o maior preditor de aprovação
 2. Mediana superior à média indica assimetria negativa
 3. Alunos com mais de 8 faltas concentram 100% das reprovações
+```
